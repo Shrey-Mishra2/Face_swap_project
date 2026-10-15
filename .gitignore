@@ -1,0 +1,6 @@
+weights/inswapper_128.onnx
+test.py
+videos/
+*.mp4
+images/
+*.jpg
